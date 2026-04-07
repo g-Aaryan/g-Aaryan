@@ -55,30 +55,23 @@ Building backend systems that are **scalable, efficient, and production-ready**.
 
 ## 🔥 Featured Projects
 
-### 🚀 Scalable Airbnb Project   
-[🔗 View Project]([https://github.com/g-Aaryan/YOUR-REPO-NAME](https://github.com/g-Aaryan/Airbnb-project))
+### 🚀 Scalable Airbnb Project  
+[🔗 View Project](https://github.com/g-Aaryan/Airbnb-project)
 
 ---
 
 ### ⚡ REST API Engine  
-[🔗 View Project]([https://github.com/g-Aaryan/YOUR-REPO-NAME](https://github.com/g-Aaryan/Express-template))
-
----
+[🔗 View Project](https://github.com/g-Aaryan/Express-template)
 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=g-Aaryan&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-<img src="https://streak-stats.demolab.com?user=g-Aaryan&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-Aaryan&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=g-Aaryan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="160"/>
 
----
+<img src="https://streak-stats.demolab.com?user=g-Aaryan&theme=tokyonight&hide_border=true" height="160"/>
 
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=g-Aaryan&icon=5&color=6" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-Aaryan&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+
+</div>
