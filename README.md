@@ -55,20 +55,16 @@ Building backend systems that are **scalable, efficient, and production-ready**.
 
 ## 🔥 Featured Projects
 
-### 🚀 Scalable Auth Service  
-[🔗 View Project](https://github.com/g-Aaryan/YOUR-REPO-NAME)
+### 🚀 Scalable Airbnb Project   
+[🔗 View Project]([https://github.com/g-Aaryan/YOUR-REPO-NAME](https://github.com/g-Aaryan/Airbnb-project))
 
 ---
 
 ### ⚡ REST API Engine  
-[🔗 View Project](https://github.com/g-Aaryan/YOUR-REPO-NAME)
+[🔗 View Project]([https://github.com/g-Aaryan/YOUR-REPO-NAME](https://github.com/g-Aaryan/Express-template))
 
 ---
 
-### ☁️ DevOps Playground  
-[🔗 View Project](https://github.com/g-Aaryan/YOUR-REPO-NAME)
-
----
 
 ## 📊 GitHub Stats
 
